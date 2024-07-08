@@ -1,6 +1,7 @@
 def addition(a,b):
     print("Welcome")
-    print("Addition is ", a+b)
+    c=a+b
+    print("Addition is ", c)
 
 addition(10,20)
 addition(30,40)
